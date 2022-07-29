@@ -1,6 +1,6 @@
 # Web-Scale K-Means Clustering
 
-Management analysis of physical dataset project
+Management and analysis of physical dataset project
 
 Implementation of clustering machine learning techniques in PySpark environment
 
