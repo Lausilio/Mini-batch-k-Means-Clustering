@@ -9,6 +9,6 @@ Implement and benchmark alternatives of common clustering algorithms in Spark en
 The project is thus focused on the efficient implementation of algorithms in a distributed system.
 
 ## main topics:
-Mini-batch k-Means
-K-means ++
+Mini-batch k-Means,
+K-means ++,
 K-means ||
