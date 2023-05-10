@@ -12,3 +12,5 @@ The project is thus focused on the efficient implementation of algorithms in a d
 Mini-batch k-Means,
 K-means ++,
 K-means ||
+
+[View Report](https://github.com/Lausilio/Mini-batch-k-Means-Clustering/blob/main/Report_KMean_MiniBatch_withSpark.ipynb)
