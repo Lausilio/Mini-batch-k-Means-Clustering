@@ -13,4 +13,4 @@ Mini-batch k-Means,
 K-means ++,
 K-means ||
 
-[View Report](https://github.com/Lausilio/Mini-batch-k-Means-Clustering/blob/main/Report_KMean_MiniBatch_withSpark.ipynb)
+To see the report click [here](https://github.com/Lausilio/Mini-batch-k-Means-Clustering/blob/main/Report_KMean_MiniBatch_withSpark.ipynb)
